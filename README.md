@@ -1,4 +1,4 @@
-# AI CLI Assistant (Python)
+# AI API CLI Assistant (Python)
 
 A simple command-line AI assistant built in Python using the OpenAI API.  
 This project demonstrates how to securely integrate an external AI API, send prompts, and display responses in a CLI environment.
